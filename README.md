@@ -35,7 +35,7 @@ README.md
 - Cada página funcional do sistema possui uma pasta com dois arquivos:
   - `index.js` → Classe com os métodos de interação (Page Object)
   - `elements.js` → Mapeamento dos seletores HTML da página
-- Os dados utilizados (usuários, produtos) estão centralizados em `/pages/dados.js` para facilitar manutenção.
+- Os dados utilizados (usuários, produtos, etc) estão centralizados em `/pages/dados.js` para facilitar manutenção.
 - Foi criada **uma spec para cada pagina** para demonstrar domínio da automação, criando mais testes.
 - Foi criada uma **spec dedicada ao fluxo principal solicitado** (`apenas_fluxo_solicitado.spec.js`), que atende apenas o que foi solicitado no desafio.
 
@@ -95,7 +95,7 @@ npx playwright test --ui
 
 **[João Vitor de Jesus Oliveira]**\
 🔗 [LinkedIn](https://www.linkedin.com/in/joão-vitor-de-jesus-oliveira)\
-📧 [seu.email@exemplo.com](mailto\:joao-vitorjc@hotmail.com)
+📧 [joao-vitorjc@hotmail.com](mailto\:joao-vitorjc@hotmail.com)
 
 ---
 
